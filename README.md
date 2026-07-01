@@ -12,6 +12,7 @@ A collection of JavaScript programs and practice exercises created while learnin
 - Strings
 - Arrays
 - Objects
+- Destructuring
 
 ## Projects
 
