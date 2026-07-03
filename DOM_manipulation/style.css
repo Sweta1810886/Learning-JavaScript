@@ -1,0 +1,45 @@
+h1{
+    background-color: #f2f2f2;
+    color: #333;
+
+}
+p{
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #e6e6e6;
+    color: #666;
+}
+
+.container{
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #eb9595;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+#box{
+    width: 200px;
+    height: 200px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.div{
+    width: 200px;
+    height: 100px;
+    background-color: #de7e7e;
+    border: 1px solid #221010;
+    margin-top: 20px;
+}
