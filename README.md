@@ -13,6 +13,7 @@ A collection of JavaScript programs and practice exercises created while learnin
 - Arrays
 - Objects
 - Destructuring
+- DOM Manipulation
 
 ## Projects
 
