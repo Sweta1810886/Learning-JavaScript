@@ -14,6 +14,10 @@ A collection of JavaScript programs and practice exercises created while learnin
 - Objects
 - Destructuring
 - DOM Manipulation
+- Events
+- Number, math, date & time
+- Functional programming
+- OOPS
 
 ## Projects
 
